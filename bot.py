@@ -90,4 +90,4 @@ while True:
     print(f"Pesan '{message.strip()}' berhasil dihapus oleh {username}.")
 
     # Tunggu selama 60 detik sebelum mengirim pesan berikutnya
-    time.sleep(20)
+    time.sleep(30)

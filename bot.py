@@ -61,7 +61,7 @@ while True:
     print(f"Pesan '{message.strip()}' berhasil dikirim oleh {username}.")
 
     # Tunggu selama 60 detik sebelum menghapus pesan
-    time.sleep(69)
+    time.sleep(60)
 
     # Dapatkan ID pesan
     message_id = response.json()['id']
